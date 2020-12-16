@@ -1,0 +1,57 @@
+*{
+margin:0;
+padding:0;	
+}
+body{
+	font-family:monospace;
+	font-size:14px;
+	line-height:24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family:sans-serif;
+}
+.container{
+	width:1140px;
+	margin:0px auto;
+}
+.header{
+	width:100%;
+	float:left;
+	height:120px;
+	background:#000;
+}
+.banner{
+	width:100%;
+	float:left;
+	height:280px;
+	background:#777;
+}
+.main-feature{
+	width:100%;
+	float:left;
+	background:#eee;
+}
+.feature-box{
+	width:31%;
+	float:left;
+	margin:10px;
+	height:400px;
+}
+.cl1{
+	background:#08c;
+}
+.cl2{
+	background:#ddd;
+}
+.cl3{
+	background:#222999;
+}
+.footer{
+	width:100%;
+	float:left;
+	height:100px;
+	background:#000;
+}
+
+
+
